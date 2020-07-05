@@ -2,7 +2,7 @@
 
 * Paper: [Seam carving for content-aware image resizing](https://dl.acm.org/doi/10.1145/1275808.1276390)
 
-For more information on how the algorithm works, see my [blog post](https://akshatkumarcse.github.io/seam-carving-algorithm).
+For more information on how the algorithm works, see my [blog post](https://akshatkumarcse.github.io/post/seam-carving-algorithm/).
 
 ## Requirements
 * OpenCV
